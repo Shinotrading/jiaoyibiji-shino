@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Market Cycle四问/"}
+{"dg-publish":true,"permalink":"/Market Cycle四问/","tags":["gardenEntry"]}
 ---
 
 Trend/TR?
