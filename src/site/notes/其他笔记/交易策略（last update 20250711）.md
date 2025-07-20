@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/其他笔记/交易策略（last update 20250711）/"}
+{"dg-publish":true,"permalink":"/其他笔记/交易策略（last update 20250711）/","tags":["gardenEntry"]}
 ---
 
 # setup
